@@ -37,9 +37,18 @@ The **Super Store Sales Dashboard** is an interactive and visually engaging busi
 
 ## 🖼️ Dashboard Preview
 
-📷 Click to view the full dashboard preview:  
-![Dashboard Preview](https://github.com/ruheel-data-analyst/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard.png)
+## 🖼️ Dashboard Preview
 
+### 🔹 Main Dashboard Overview
+![Main Dashboard](https://github.com/ruheel-data-analyst/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard.png)
+
+### 🔹 Monthly Sales and Profit
+![Monthly Sales and Profit](https://github.com/ruheel-data-analyst/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard%20Monthly%20sale%20and%20profit%20.png)
+
+### 🔹 15-Day Sales Forecasting
+![Sales Forecast](https://github.com/ruheel-data-analyst/Super-Store-Sales-Dashboard/blob/main/Super%20store%20sales%20Forecasting%2015%20days%20Forecast.png)
+
+---
 ---
 
 ## 📂 Data Source
